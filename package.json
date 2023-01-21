@@ -1,0 +1,27 @@
+{
+  "name": "dc-api",
+  "version": "1.0.2",
+  "description": "Simple SelfBot discord API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsec7/dc-api.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "api-wrapper"
+  ],
+  "author": "Verry Darmawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsec7/dc-api/issues"
+  },
+  "homepage": "https://github.com/vsec7/dc-api#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
